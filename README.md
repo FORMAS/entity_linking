@@ -1,4 +1,4 @@
-# entity_linking
+# Entity Linking
 Entity Linking resources
 
 Some articles:
